@@ -10,8 +10,6 @@
   <img align="left" alt="Aditya's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
-
 ![](https://komarev.com/ghpvc/?username=adityagupta-16&style=flat-square&color=brightgreen)
 
 Hola, I'm Monit Dangi, a passionat student to become full stack web developer and a software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -32,7 +30,11 @@ I learned a lot from the open-source community and i love how collaboration and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 📈 my github stats
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MonitDangi&show_icons=true&locale=en&layout=compact" alt="MonitDangi" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MonitDangi&show_icons=true&theme=gotham" alt="MonitDangi" /></p>
