@@ -33,12 +33,6 @@ I learned a lot from the open-source community and i love how collaboration and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-
-
-
-
 📈 my github stats
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MonitDangi&show_icons=true&locale=en&layout=compact" alt="MonitDangi" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MonitDangi&show_icons=true&theme=gotham" alt="MonitDangi" /></p>
