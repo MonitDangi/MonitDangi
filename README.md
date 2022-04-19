@@ -3,11 +3,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <a href="https://www.instagram.com/btw_its_monit/">
-  <img align="left" alt="Aditya's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Monits's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/monitdangi/">
-  <img align="left" alt="Aditya's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Monit's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=adityagupta-16&style=flat-square&color=brightgreen)
@@ -34,5 +34,6 @@ I learned a lot from the open-source community and i love how collaboration and 
 📈 my github stats
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MonitDangi&show_icons=true&locale=en&layout=compact" alt="MonitDangi" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MonitDangi&show_icons=true&theme=gotham" alt="MonitDangi" /></p>
+
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MonitDangi&theme=dark&background=000000)](https://git.io/streak-stats)
