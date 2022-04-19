@@ -3,14 +3,18 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <a href="https://www.instagram.com/btw_its_monit/">
-  <img align="left" alt="Monits's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Monit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/monitdangi/">
   <img align="left" alt="Monit's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=adityagupta-16&style=flat-square&color=brightgreen)
+<a href="https://leetcode.com/monitdangi/">
+  <img align="left" alt="Monit's LeetCode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=MonitDangi&style=flat-square&color=brightgreen)
 
 Hola, I'm Monit Dangi, a passionat student to become full stack web developer and a software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
