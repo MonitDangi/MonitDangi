@@ -21,7 +21,7 @@ Hola, I'm Monit Dangi, a passionat student to become full stack web developer an
 I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/adityagupta-16/adityagupta-16/blob/main/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/MonitDangi/Imgaes_for_github/blob/main/Doing_code.gif" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:monitdangi2562@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help:)
